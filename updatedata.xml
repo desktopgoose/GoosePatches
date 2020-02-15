@@ -2,6 +2,5 @@
 <item>
     <version>0.0.0.2</version>
     <url>http://rbsoft.org/downloads/AutoUpdaterTest.zip</url>
-    <changelog>http://rbsoft.org/downloads/AutoUpdaterTest.zip</changelog>
     <mandatory>false</mandatory>
 </item>
